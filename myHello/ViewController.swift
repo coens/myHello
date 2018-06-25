@@ -18,7 +18,7 @@ class ViewController: UIViewController {
             self.sum += row
         }
         
-        print("총 합은 \(self.sum) / \(count)회 실행되었습니다..")
+        print("총 합은 \(self.sum) / \(count)회 실행되었습니다..") // 마스터 브랜치
         
     }
 
