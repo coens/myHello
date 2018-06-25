@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         var count = 0
-        for row in 5...10 {
+        for row in 8...10 {
             count += 1
             self.sum += row
         }
